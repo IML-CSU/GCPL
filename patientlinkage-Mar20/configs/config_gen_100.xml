@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Configs</comment>
+<entry key="method">1</entry>
+<entry key="comBF">1 1 -&gt; 1</entry>
+<entry key="filter">1</entry>
+<entry key="party">generator</entry>
+<entry key="port">9000</entry>
+<entry key="records">100</entry>
+<entry key="threshold">0</entry>
+<entry key="BFweights">1 1</entry>
+<entry key="com.4">0  S3      S3       0      0       0         9    0       0      0       0      8         -&gt;   1</entry>
+<entry key="com.3">0  0      11      0      0       0         9    0       0      0       0      0         -&gt;   1</entry>
+<entry key="threads">2</entry>
+<entry key="com.2">0  0      0       0      0       0         9    0       0      0       0      8         -&gt;   1</entry>
+<entry key="com.1">0  12     11      0      0       0         0    0       0      0       0      8         -&gt;   1</entry>
+</properties>
